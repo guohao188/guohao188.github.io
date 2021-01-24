@@ -7571,11 +7571,11 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: 0.2;
+    opacity: 0;
     background: #fff;
     z-index: 0; }
   .hero-wrap.hero-wrap-2 .overlay {
-    opacity: 0.2; }
+    opacity: 0; }
   .hero-wrap .text {
     z-index: 1;
     font-size: 18px;
