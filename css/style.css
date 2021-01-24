@@ -7571,11 +7571,11 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: 0;
+    opacity: 0.2;
     background: #fff;
     z-index: 0; }
   .hero-wrap.hero-wrap-2 .overlay {
-    opacity: 0; }
+    opacity: 0.2; }
   .hero-wrap .text {
     z-index: 1;
     font-size: 18px;
@@ -7590,14 +7590,14 @@ h1, h2, h3, h4, h5,
       border-radius: 50%; }
     .hero-wrap .text .subheading {
       font-size: 24px;
-      color: #000000;
+      color: #bfbfbf;
       font-weight: 300; }
     .hero-wrap .text h1 {
       letter-spacing: 1px;
       font-weight: 900; }
     .hero-wrap .text .btn-custom {
       font-weight: 400;
-      color: #000000;
+      color: #b3b3b3;
       border-bottom: 2px solid #b3b3b3; }
 
 .photography-entry {
